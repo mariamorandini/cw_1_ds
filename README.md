@@ -1,6 +1,6 @@
 # Immigrants Flows in Italy
 
-CID: 02478494
+
 
 The reference dataset is [LiberiamoliTutti!](/https://github.com/ondata/liberiamoli-tutti/tree/main/sbarchi-migranti)
 In these directories is organized the submission of the work according to the structure of a data science project, as discussed in class. 
