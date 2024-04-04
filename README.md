@@ -1,6 +1,6 @@
 # Immigrants Flows in Italy
 
-
+This repository contains the first coursework for the Data Science Project. An inphographic regarding Migration flows in Italy is constructed and discussed.
 
 The reference dataset is [LiberiamoliTutti!](/https://github.com/ondata/liberiamoli-tutti/tree/main/sbarchi-migranti)
 In these directories is organized the submission of the work according to the structure of a data science project, as discussed in class. 
